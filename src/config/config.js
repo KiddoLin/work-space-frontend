@@ -2,7 +2,7 @@ const API_VER = '/api/v1'
 
 module.exports = {
   name: '管理后台',
-  title: 'CoCoWorking™ 管理后台',
+  title: 'WorkSpace™ 管理后台',
   version: '1.4.0 build 1128',
   prefix: 'gsAdmin',
   footerText: '深圳市XXX有限公司  © 2017',
